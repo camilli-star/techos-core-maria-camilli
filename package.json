@@ -1,0 +1,10 @@
+
+{
+  "name": "techos-core",
+  "version": "1.0.0",
+  "description": "Sistema de ordens de serviço",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
