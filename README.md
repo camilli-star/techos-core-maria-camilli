@@ -120,3 +120,5 @@ npm.cmd start
 - Registro de ordem de serviço.
 - Verificação do status inicial ABERTA.
 - Listagem das ordens cadastradas.
+## Integração
+Projeto desenvolvido para o desafio TechOS Core — Encontro 17.
