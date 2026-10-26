@@ -120,3 +120,6 @@ npm.cmd start
 - Registro de ordem de serviço.
 - Verificação do status inicial ABERTA.
 - Listagem das ordens cadastradas.
+
+## Pull Request
+Integracao da branch de desenvolvimento na main.
